@@ -57,14 +57,16 @@ Bu komut, React uygulamasını yerel sunucuda çalıştıracak ve http://localho
 
 ![image](https://github.com/user-attachments/assets/2b158259-0707-4381-8190-65e468d5da07)  
 
-**3.2) Sayfalar Arası Geçiş**:    
+**3.2) Sayfalar Arası Geçiş**:   
+
 ![image](https://github.com/user-attachments/assets/4770eb06-252a-4dbf-9750-0f173cd9e9e9)  
 
 
-**Karakter Detayları**: Karakterin isminin üzerine tıklayarak karakterin görseli, türü, durumu ve diğer bilgilerini görebilirsiniz.     
+**4) Karakter Detayları**: Karakterin isminin üzerine tıklayarak karakterin görseli, türü, durumu ve diğer bilgilerini görebilirsiniz.     
 
 ![image](https://github.com/user-attachments/assets/79adbf82-77c9-4cdb-a85e-592e97a0e3ec)  
 
-## Genel Kullanıcı Arayüzü  
+## **Genel Kullanıcı Arayüzü ** 
+
 ![image](https://github.com/user-attachments/assets/f0217b74-5a98-4f0b-a22d-7d9b4f5c1d3a)  
 
