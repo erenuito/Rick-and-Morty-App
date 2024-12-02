@@ -1,11 +1,25 @@
-# Getting Started with Create React App
+# Rick and Morty Characters Table
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu proje, Rick and Morty dizisinin karakterlerinin listesini bir API'den alarak bir tablo şeklinde görüntüleyen bir React uygulamasıdır. Kullanıcılar, karakterleri isimlerine göre filtreleyebilir, sütunlarda sıralama yapabilir, sayfalama işlemleri gerçekleştirebilir ve seçilen karakterlerin detaylarına ulaşabilir.
 
-### In the project directory: `npm start`
+## Özellikler
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Veri Çekme:** Rick and Morty API'si üzerinden karakter verilerini dinamik olarak çeker.
+- **Filtreleme:** Kullanıcı, karakterlerin ismine göre filtreleme yapabilir.
+- **Sıralama:** Her sütunda artan ya da azalan sırada sıralama yapılabilir.
+- **Sayfalama:** Veriler sayfalara ayrılır ve kullanıcı istediği sayfayı görüntüleyebilir.
+- **Karakter Detayları:** Kullanıcı, karakterin üzerine tıklayarak detaylı bilgilerine (görsel, tür, durum vb.) erişebilir.
+- **Hata Yönetimi:** API hataları kullanıcıya bildirilebilir.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Teknolojiler
+
+- **React.js**: Uygulamanın kullanıcı arayüzü için.
+- **CSS**: Uygulamanın stilini düzenlemek için.
+- **Rick and Morty API**: Karakter verilerini almak için kullanılan API.
+
+## Kurulum
+
+### 1. Depoyu Kopyalayın
+Bu depoyu kendi bilgisayarınıza kopyalamak için aşağıdaki komutu kullanabilirsiniz:
+```bash
+git clone https://github.com/<kullanici_adiniz>/rick-and-morty-characters.git
