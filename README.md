@@ -41,10 +41,10 @@ npm start
 Bu komut, React uygulamasını yerel sunucuda çalıştıracak ve http://localhost:3000 adresinde açacaktır.
 
 ## Kullanım
-Filtreleme: Karakterlerin isimlerine göre filtreleme yapmak için arama kutusuna yazabilirsiniz.
-Sıralama: Her sütuna tıklayarak sıralama yapabilirsiniz. Sıralama, artan veya azalan şekilde yapılabilir.
-Sayfalama: Karakterlerin sayfalara ayrıldığını göreceksiniz. Sayfa numarasına tıklayarak diğer sayfalara geçebilirsiniz.
-Karakter Detayları: Karakterin isminin üzerine tıklayarak karakterin görseli, türü, durumu ve diğer bilgilerini görebilirsiniz.
+**Filtreleme**: Karakterlerin isimlerine göre filtreleme yapmak için arama kutusuna yazabilirsiniz.  
+**Sıralama**: Her sütuna tıklayarak sıralama yapabilirsiniz. Sıralama, artan veya azalan şekilde yapılabilir.  
+**Sayfalama**: Karakterlerin sayfalara ayrıldığını göreceksiniz. Sayfa numarasına tıklayarak diğer sayfalara geçebilirsiniz.   
+**Karakter Detayları**: Karakterin isminin üzerine tıklayarak karakterin görseli, türü, durumu ve diğer bilgilerini görebilirsiniz.    
 
 ## Ekran Görüntüleri
 Burada uygulamanın nasıl göründüğüne dair bazı ekran görüntüleri yer alabilir.
