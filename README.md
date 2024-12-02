@@ -1,6 +1,6 @@
 # Rick and Morty Characters Table
 
-Bu proje, Rick and Morty dizisinin karakterlerinin listesini bir API'den alarak bir tablo şeklinde görüntüleyen bir React uygulamasıdır. Kullanıcılar, karakterleri isimlerine göre filtreleyebilir, sütunlarda sıralama yapabilir, sayfalama işlemleri gerçekleştirebilir ve seçilen karakterlerin detaylarına ulaşabilir.
+Bu proje, Rick and Morty dizisinin karakterlerinin listesini bir API'den alarak bir tablo şeklinde görüntüleyen kullanıcı dostu arayüzüne sahip bir React uygulamasıdır. Kullanıcılar, karakterleri isimlerine göre filtreleyebilir, sütunlarda sıralama yapabilir, sayfalama işlemleri gerçekleştirebilir ve karakterlere tıklayarak detaylarına ulaşabilir.
 
 ## Özellikler
 
