@@ -38,13 +38,30 @@ Uygulamayı başlatmak için aşağıdaki komutu kullanabilirsiniz:
 ```bash
 npm start
 ```
-Bu komut, React uygulamasını yerel sunucuda çalıştıracak ve http://localhost:3000 adresinde açacaktır.
+Bu komut, React uygulamasını yerel sunucuda çalıştıracak ve http://localhost:3000 adresinde açacaktır.  
 
-## Kullanım
-**Filtreleme**: Karakterlerin isimlerine göre filtreleme yapmak için arama kutusuna yazabilirsiniz.  
-**Sıralama**: Her sütuna tıklayarak sıralama yapabilirsiniz. Sıralama, artan veya azalan şekilde yapılabilir.  
-**Sayfalama**: Karakterlerin sayfalara ayrıldığını göreceksiniz. Sayfa numarasına tıklayarak diğer sayfalara geçebilirsiniz.   
-**Karakter Detayları**: Karakterin isminin üzerine tıklayarak karakterin görseli, türü, durumu ve diğer bilgilerini görebilirsiniz.    
+## Kullanım  
+**1)Filtreleme**: Karakterlerin isimlerine göre filtreleme yapmak için arama kutusuna yazabilirsiniz.    
+![image](https://github.com/user-attachments/assets/e6a45e06-b674-4ad3-b1ab-011540ffb0fa)  
 
-## Ekran Görüntüleri
-Burada uygulamanın nasıl göründüğüne dair bazı ekran görüntüleri yer alabilir.
+**Sıralama**: Her sütuna tıklayarak sıralama yapabilirsiniz. Sıralama, artan veya azalan şekilde yapılabilir. İlk tıklama artan, ikinci tıklama ise azalan sıralama yapar. Üçüncü defa tıklarsanız tablo default haline döner.  
+
+![image](https://github.com/user-attachments/assets/a991dd72-b1ce-4a7e-a082-a60b5474a7de)    
+
+![image](https://github.com/user-attachments/assets/90a72192-4d0d-4c79-86d4-b237e6505e31)   
+
+**Sayfalama**: Karakterlerin sayfalara ayrıldığını göreceksiniz. Sağ üstten sayfa boyutunu ayarlayabilirsiniz. Ayrıca Next ve Previous butonlarına tıklayarak önceki ve sonraki sayfalara geçiş yapabilirsiniz.   
+Sayfa Boyutu Ayarlama:  
+![image](https://github.com/user-attachments/assets/2b158259-0707-4381-8190-65e468d5da07)  
+
+Sayfalar Arası Geçiş:    
+![image](https://github.com/user-attachments/assets/4770eb06-252a-4dbf-9750-0f173cd9e9e9)  
+
+
+**Karakter Detayları**: Karakterin isminin üzerine tıklayarak karakterin görseli, türü, durumu ve diğer bilgilerini görebilirsiniz.     
+
+![image](https://github.com/user-attachments/assets/79adbf82-77c9-4cdb-a85e-592e97a0e3ec)  
+
+## Kullanıcı Arayüzü  
+![image](https://github.com/user-attachments/assets/f0217b74-5a98-4f0b-a22d-7d9b4f5c1d3a)  
+
